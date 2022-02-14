@@ -1,0 +1,15 @@
+.patient-reports{
+    height:100%;
+}
+
+.no-show-block{
+    border-top: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+    height:75px;
+}
+
+.total-block{
+    border-top: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+    height:75px;
+}

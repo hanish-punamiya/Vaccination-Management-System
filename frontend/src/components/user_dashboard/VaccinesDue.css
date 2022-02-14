@@ -1,0 +1,27 @@
+.time-section{
+    width:100%;
+}
+
+.due-section{
+    margin-bottom: 30px;
+}
+
+.due-list{
+    margin-top:20px;
+}
+
+.due-vaccine{
+    height:75px;
+    border-top:0.5px solid lightgray;
+    border-bottom:0.5px solid lightgray;
+}
+
+.due-vaccine h5{
+    margin-right: 30px;
+}
+
+.due-vaccine p{
+    align-self: center;
+    margin-top:9px;
+    margin-right:15px;
+}

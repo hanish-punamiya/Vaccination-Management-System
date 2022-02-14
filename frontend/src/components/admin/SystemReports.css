@@ -1,0 +1,15 @@
+.system-reports{
+    height:100%;
+}
+
+.sys-no-show-block{
+    border-top: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+    height:75px;
+}
+
+.sys-total-block{
+    border-top: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+    height:75px;
+}

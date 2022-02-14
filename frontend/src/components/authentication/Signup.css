@@ -1,0 +1,13 @@
+.signup{
+    width: 100vw;
+    height: 85vh;
+}
+
+.signup-section{
+    width: 200px;
+    height: 100%;
+}
+
+.datePicker {
+    color: blue;
+}
